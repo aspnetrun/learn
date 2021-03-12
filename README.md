@@ -12,7 +12,7 @@ The best path to leverage your aspnet skills. Onboarding to .Net Software Archit
 
 ## The Book - Microservices Architecture and Step by Step Implementation on .NET
 
-If you buy above udemy course with using links, I will send this book.
+If you buy my udemy courses with using above links, I will send this book.
 You can find **Microservices Architecture and Step by Step Implementation on .NET book** which **step by step developing** this repository with extensive explanations and details. This book is the **best path to leverage your .NET skills** in every aspect from beginner to senior level you can benefit to ramp-up faster on **Enterprise Application Development practices** and easy to **Onboarding to Full Stack .Net Core Developer jobs**. 
 
 The book also includes more practical information and I **update it regularly** and send it again with new versions.
