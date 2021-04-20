@@ -9,6 +9,9 @@ The best path to leverage your aspnet skills. Onboarding to .Net Software Archit
 
 [![sec](https://user-images.githubusercontent.com/1147445/110911882-4e42e400-8324-11eb-9d7b-d12d3be1c67c.png)](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?referralCode=6615E54FFF6B4FCC081D)
 
+[![res](https://user-images.githubusercontent.com/1147445/115364130-bf02d900-a1cb-11eb-9f85-6ace1e3d0344.png)](https://www.udemy.com/course/microservices-observability-resilience-monitoring-on-net/?referralCode=D162C050483C75452136)
+
+
 
 
 
