@@ -4,6 +4,8 @@
 
 ### AWS Serverless
 * [AWS Serverless Microservices with Patterns & Best Practices](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/?couponCode=APRIL22)
+  * Medium Articles
+  * Github Repository
 
 ### Software Architecture
 * [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/?couponCode=APRIL22)
