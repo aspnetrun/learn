@@ -1,3 +1,20 @@
+## Udemy Courses Special Discounts
+
+**Active Coupon : APRIL22**
+
+### AWS Serverless
+* [AWS Serverless Microservices with Patterns & Best Practices](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/?couponCode=APRIL22)
+
+### Software Architecture
+* [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/?couponCode=APRIL22)
+
+### .Net Microservices
+* [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=APRIL22)
+* [Deploying .Net Microservices with K8s, AKS and Azure DevOps](https://www.udemy.com/course/deploying-net-microservices-with-k8s-aks-and-azure-devops/?couponCode=APRIL22)
+* [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=APRIL22)
+* [Microservices Observability, Resilience, Monitoring on .Net](https://www.udemy.com/course/microservices-observability-resilience-monitoring-on-net/?referralCode=D162C050483C75452136)
+* [Using gRPC in Microservices Communication with .Net 5](https://www.udemy.com/course/using-grpc-in-microservices-communication-with-net-5/?couponCode=MARCH22)
+
 # .Net Microservices Udemy Learning Path
 The best path to leverage your aspnet skills. Onboarding to .Net Software Architect jobs. Follow udemy course paths for asp.net microservices applications.
 
